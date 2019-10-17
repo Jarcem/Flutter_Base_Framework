@@ -1,0 +1,94 @@
+PODS:
+  - AVOSCloud (11.6.6)
+  - Flutter (1.0.0)
+  - fluttertoast (0.0.2):
+    - Flutter
+  - image_picker (0.0.1):
+    - Flutter
+  - SGQRCode (3.0.1)
+  - share (0.5.2):
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
+  - UMCAnalytics (6.0.5):
+    - UMCCommon
+  - UMCCommon (2.1.1)
+  - UMCCommonLog (1.0.0)
+  - UMCShare/Core (6.9.6):
+    - UMCCommon
+  - UMCShare/Social/ReducedQQ (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/ReducedSina (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/ReducedWeChat (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/UI (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - video_player (0.0.1):
+    - Flutter
+  - WechatOpenSDK (1.8.4)
+
+DEPENDENCIES:
+  - AVOSCloud
+  - Flutter (from `.symlinks/flutter/ios`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - image_picker (from `.symlinks/plugins/image_picker/ios`)
+  - SGQRCode (~> 3.0.1)
+  - share (from `.symlinks/plugins/share/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - UMCAnalytics
+  - UMCCommon
+  - UMCCommonLog
+  - UMCShare/Social/ReducedQQ
+  - UMCShare/Social/ReducedSina
+  - UMCShare/Social/ReducedWeChat
+  - UMCShare/UI
+  - video_player (from `.symlinks/plugins/video_player/ios`)
+  - WechatOpenSDK
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AVOSCloud
+    - SGQRCode
+    - UMCAnalytics
+    - UMCCommon
+    - UMCCommonLog
+    - UMCShare
+    - WechatOpenSDK
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  image_picker:
+    :path: ".symlinks/plugins/image_picker/ios"
+  share:
+    :path: ".symlinks/plugins/share/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  video_player:
+    :path: ".symlinks/plugins/video_player/ios"
+
+SPEC CHECKSUMS:
+  AVOSCloud: 72406411971a34cf0f7cef9cf016c0032c51a639
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  fluttertoast: b644586ef3b16f67fae9a1f8754cef6b2d6b634b
+  image_picker: 16e5fec1fbc87fd3b297c53e4048521eaf17cd06
+  SGQRCode: bf02d60e18d6660a9d75ff1c8b9b467f064f054e
+  share: 7d22fe8baedfe93aefd864bf0b73f29711fbb0a3
+  shared_preferences: 1feebfa37bb57264736e16865e7ffae7fc99b523
+  UMCAnalytics: 045be2cd1ec05aa95ad62405a850757f932e2d59
+  UMCCommon: 971f324a5a99c9d662ae040a815e7e3d7ef8b2a8
+  UMCCommonLog: 05a2d5de21858e3d870551562cff405c1366d244
+  UMCShare: e0cef55c0fd6051254c8cda1d0630eb578b27bad
+  video_player: 3964090a33353060ed7f58aa6427c7b4b208ec21
+  WechatOpenSDK: 9b721089507c895d05f997408c30bb6e6f5f9b60
+
+PODFILE CHECKSUM: 13db0344a0a86e183ffe970c0cc9a4ad9145a81e
+
+COCOAPODS: 1.6.1
